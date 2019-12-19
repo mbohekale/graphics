@@ -1,0 +1,12 @@
+﻿  main.cpp
+  Mesh_OGL3.cpp
+  MyApp.cpp
+c:\users\student288\desktop\02_loadmesh\02_loadmesh\myapp.cpp(188): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\student288\desktop\02_loadmesh\02_loadmesh\myapp.cpp(198): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  ObjParser_OGL3.cpp
+  Generating Code...
+  02_LoadMesh.vcxproj -> C:\Users\Student288\Desktop\02_LoadMesh\Debug\02_LoadMesh.exe
