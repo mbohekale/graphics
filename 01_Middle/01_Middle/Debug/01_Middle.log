@@ -1,0 +1,21 @@
+﻿  gCamera.cpp
+  gShaderProgram.cpp
+c:\users\student288\desktop\01_middle\01_middle\gshaderprogram.cpp(98): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\student288\desktop\01_middle\01_middle\gshaderprogram.cpp(98): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  gVertexBuffer.cpp
+  main.cpp
+  Mesh_OGL3.cpp
+  MyApp.cpp
+c:\users\student288\desktop\01_middle\01_middle\glutils.hpp(24): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\student288\desktop\01_middle\01_middle\glutils.hpp(24): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\student288\desktop\01_middle\01_middle\myapp.cpp(293): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\student288\desktop\01_middle\01_middle\myapp.cpp(294): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\student288\desktop\01_middle\01_middle\myapp.cpp(300): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\student288\desktop\01_middle\01_middle\myapp.cpp(358): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  ObjParser_OGL3.cpp
+  Generating Code...
+  01_Middle.vcxproj -> C:\Users\Student288\Desktop\01_Middle\Debug\01_Middle.exe
