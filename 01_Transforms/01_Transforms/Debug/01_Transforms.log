@@ -1,0 +1,6 @@
+﻿  MyApp.cpp
+c:\users\student288\desktop\01_transforms\01_transforms\glutils.hpp(21): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\student288\desktop\01_transforms\01_transforms\glutils.hpp(21): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\student288\desktop\01_transforms\01_transforms\glutils.hpp(32): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\student288\desktop\01_transforms\01_transforms\glutils.hpp(32): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  01_Transforms.vcxproj -> C:\Users\Student288\Desktop\01_Transforms\Debug\01_Transforms.exe
